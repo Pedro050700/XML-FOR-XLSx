@@ -1,10 +1,10 @@
 # XML-FOR-XLSx
 Programa criado em nodejs para converter arquivo xml em xlsx.
 
-PARA RODAR BASTAR INSERIR O SEGUINTE COMANDO NO TERMINAL :
+para rodar a aplicação insira os seguintes comandos npm :
 </br>
-NPM I 
+- npm install
 </br>
-NODE XMLFORXLSX.JS
+- node xmlforxlsx.js
 </br>
  =)
