@@ -5,6 +5,6 @@ para rodar a aplicação insira os seguintes comandos npm :
 </br>
 - npm install
 </br>
-- node xmlforxlsx.js
+- node xmlforxlsx
 </br>
  =)
