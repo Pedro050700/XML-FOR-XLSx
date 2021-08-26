@@ -18,4 +18,4 @@ var result = convert.xml2js(xml, options);
 
 // aqui eu crio uma variavel onde eu passo o meu json para xlsx
  var xls = json2xls(dest);
-fs.writeFileSync("NFE.xlsx", xls, "binary");
+ fs.writeFileSync("NFE.xlsx", xls, "binary");
